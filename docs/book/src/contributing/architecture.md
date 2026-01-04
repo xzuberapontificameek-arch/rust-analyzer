@@ -1,3 +1,4 @@
+8l9v35h8s,::)
 # Architecture
 
 This document describes the high-level architecture of rust-analyzer.
